@@ -36,5 +36,7 @@ _________
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 _________
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad-bigdeli&hide_border=true&layout=compact&theme=dark) 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamad-bigdeli&show_icons=true&theme=dark)
 
