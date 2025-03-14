@@ -2,17 +2,15 @@ Hi 👋, I'm Mohammad Bigdeli
 =====
 About Me
 __________
-I am a back-end developer focusing on Python and frameworks like Django and FastAPI. I seriously entered the world of programming in 2023, and since then, I have been enthusiastically learning and improving my skills in the software development field.
+**As a backend developer with nearly 2 years of experience, I specialize in developing RESTful APIs using Python and the Django framework. I also have a solid understanding of database design and working with related tools.**
 
-Although I am still at the beginning of my professional path, I have tried to apply my knowledge practically by working on sample projects and showcasing them on GitHub. I love new challenges and am always looking for opportunities that push me out of my comfort zone and contribute to my growth.
+**Currently, my focus is on understanding advanced backend concepts and designing scalable and efficient systems. I am working on improving my skills in areas such as software architecture, performance optimization, and implementing development best practices.**
 
-Currently, my entire focus is on strengthening my back-end skills, but my long-term vision is to enter the fascinating world of artificial intelligence.
-
-I am passionate about learning new technologies and strive to expand my knowledge every day. If you’re interested in collaboration, exchanging ideas, or creating exciting projects, I would be happy to connect with you!
+**I am always eager to learn new technologies and methodologies, and I enjoy applying my knowledge by contributing to challenging projects and collaborating with creative teams. My goal is to play an impactful role as a professional developer in creating high-quality and practical software products.**
 __________
 🔭 I’m currently working on backend projects, building scalable and efficient systems.
 
-🌱 I’m currently learning microservices architecture and its tools to enhance my backend expertise.
+🌱 Currently, I am focusing on learning **advanced backend concepts** and improving my skills in designing efficient and scalable systems.
 
 💬 Ask me about Python, backend development, and anything related to building robust systems.
 
